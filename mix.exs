@@ -1,0 +1,7 @@
+defmodule PlumeMoveClockScope.MixProject do
+  use Mix.Project
+
+  def project do
+    [app: :plume_move_clock_scope, version: "0.1.0", elixir: "~> 1.18", deps: []]
+  end
+end
